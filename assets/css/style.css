@@ -1,0 +1,27 @@
+body {
+  color: whitesmoke;
+  background-color: black; 
+}
+
+.background {
+  background-image: url("https://blog.ambient-mixer.com/wp-content/uploads/2016/07/Top-20-Music-Composers-Of-All-Time.jpg");
+  background-repeat: repeat;
+  
+}
+.container {
+  background-color: black;
+  border-color: azure;
+  border: 1px dotted azure;
+  width: 600px;
+  
+  
+}
+.row {
+  border-right: 1px dotted azure;
+}
+
+#wordspace {
+  color:whitesmoke;
+  font-size: 30px;
+}
+
